@@ -1,3 +1,3 @@
 # urlshortender
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/nikpottbecker/urlshortender)
+[Created in PTBR Code ⚡️](https://ptbrnetwork.com)
